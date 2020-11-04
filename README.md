@@ -1,2 +1,2 @@
 # FFN_Hueckesfeld-et-al.-2020
-Jupiter notebook (python). Feed Forward network for calculating modulation of neurons based on an L1 ssTEM volume of Drosophila melanogaster
+Python code (Jupyter notebook) for feed-foward network model predicting the modulation of neurosecretory neurons by sensory inputs. Based on connectivity data from a first instar ssTEM volume of _Drosophila melanogaster_ (see [Ohyama et al. 2015](https://www.janelia.org/publication/multilevel-multimodal-circuit-enhances-action-selection-drosophila)).
